@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Login_Register/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/apple/AndroidStudioProjects/Login_Register/app/build/intermediates/pre-dexed/debug/classes-b3295011cc6413a7ddc6a87804e188fe39b2c193.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Login_Register/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/apple/AndroidStudioProjects/Login_Register/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-ee2b448043131f041240d5e47d3725dac49c9fe9.jar" />
+    </item>
+    <item
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/apple/AndroidStudioProjects/Login_Register/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-b201bc2c383ea2e10b24fc3a5eeb5890c1c9b09e.jar" />
+    </item>
+    <item
+        jar="/Users/apple/AndroidStudioProjects/Login_Register/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/apple/AndroidStudioProjects/Login_Register/app/build/intermediates/pre-dexed/debug/classes-f1fbe880183a187da76f09f235375fd3d8edd349.jar" />
+    </item>
+
+</items>
